@@ -1,7 +1,8 @@
 /*----------PROJECT 2 PACKAGES & PACKAGE BODYS --------------
 /   
 /      Prepared by: Crystal Combs, email: zcmc53@gmail.com  
-/       
+/                 Created on: 02/10/2017
+/               Last edit on: 02/23/2017
 /
 -------------------------------------------------------------*/
 SET SERVEROUTPUT ON;  --enable print to console
